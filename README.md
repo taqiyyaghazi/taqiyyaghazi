@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Ghazi Taqiyya <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width: 5px;"> </h1></h1>
+<h1 align="center">Hi, I'm Ghazi Taqiyya <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width: 25px;"> </h1></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mathematics+Student;DS%20|%20AI%20|%20ML%20Enthusiast;;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 </p>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p> -->
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<div><img align="right" style="width: 250px;" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coders" /></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -78,4 +78,4 @@
 </p>
 
 - Credit: [Taqiyya Ghazi](https://github.com/taqiyyaghazi)
-- Last Edited on: 03/04/2022
+- Last Edited on: 25/01/2023
