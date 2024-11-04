@@ -10,7 +10,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Mathematics at the University of Sebelas Maret.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Fullstack Web.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at taqiyyaghazi@gmail.com! I'll try to respond as soon as I can.\
